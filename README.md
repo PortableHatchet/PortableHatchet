@@ -13,7 +13,7 @@
     </header>
     <main>
       <ul id="project-list">
-        <a href="https://github.com/PortableHatchet/Trivia-Game">Trivia Game (python)</a><br>
+        <a href="https://github.com/PortableHatchet/landing-page">Portfolio Landing Page (javascript)</a><br>
         <a href="https://github.com/PortableHatchet/Trivia-Game">Trivia Game (python)</a><br>
         <a href="https://github.com/PortableHatchet/CSE210-Projects">CSE 210 Projects (C#)</a>
       </ul>
