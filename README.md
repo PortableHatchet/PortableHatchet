@@ -9,7 +9,7 @@
     <header>
       <img  >
       <h1>Porter's Portfolio</h1>
-      <p> Hello my name is Porter Hatch and I am a Software Engineering Student at BYU-Idaho. Here is a list of my project: </p>
+      <p> Hello my name is Porter Hatch and I am a Software Engineering Student at BYU-Idaho. Here is a list of my projects: </p>
     </header>
     <main>
       <ul id="project-list">
