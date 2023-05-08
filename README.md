@@ -4,5 +4,5 @@
 
 ### Here is a list of my projects:
 - [Trivia Game](https://github.com/PortableHatchet/Trivia-Game)
-- [Nutrition Tracker] (https://github.com/PortableHatchet/NutritionTracker)
+- [Nutrition Tracker](https://github.com/PortableHatchet/NutritionTracker)
 - 
