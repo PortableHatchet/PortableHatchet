@@ -9,4 +9,4 @@
 - [DoodleGram (C# ASP .Net MVC)](https://github.com/PortableHatchet/DoodleGram)
 - [Trivia Game (React Web App using API call to Database)](https://github.com/PortableHatchet/react-trivia-app)
 - [Nutrition Tracker (Swift)](https://github.com/PortableHatchet/NutritionTracker)
-- [Recipe App (React Web App written with the React framework and utilzing Supabase for the database)](https://github.com/Fabolin99/Recipe-Web-App) 
+- [Recipe App (React Web App and Supabase Database)](https://github.com/Fabolin99/Recipe-Web-App) 
